@@ -7,7 +7,7 @@ The only change is that it works with spigot/bukkit 1.9
 
 Download it from the following link: http://s000.tinyupload.com/index.php?file_id=30643263176710794644
 
-Or create a .jar from src in the usual mannor (ask a question if you don't know what that means!)
+Or create a .jar from src in the usual manner (ask a question if you don't know what that means!)
 
 ## Contributions
 
