@@ -12,3 +12,7 @@ Or create a .jar from src in the usual mannor (ask a question if you don't know 
 ## Contributions
 
 Feel free to fork or contribute code to this branch. I don't have a plugin registered to BukkitDEV myself but, I'm willing to support development if there is any interest at all.
+
+## License
+
+GNUv3 © [Colin Ryan](http://github.com/ColinRyan)
