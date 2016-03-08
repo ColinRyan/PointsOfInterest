@@ -1,0 +1,8 @@
+name: PointsOfInterests
+version: 1.3.0
+main: me.drbojingle.PointsOfInterests
+author: Limeth
+commands:
+    poi:
+        description: Commands for the PointsOfInterests plugin by Limeth
+        usage: /Poi
